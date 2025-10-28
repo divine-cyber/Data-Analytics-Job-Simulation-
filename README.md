@@ -16,3 +16,6 @@ This project analyzes over 260,000 retail transactions to identify customer segm
 - `Task 1 - Data Exploration`: Knitted output with visualizations
 - 'QVI_transaction_data': CSV files containg product name, product size,...
 - 'QVI_purchase_behaviour': CSV file containg LOYALTY CARD NUMBER, TYPE OF PREMIUM CUSTOMER AND LIFESTAGE.
+
+“The original dataset can be accessed by registering for the Quantium Virtual Experience on Forage: https://www.theforage.com
+”
